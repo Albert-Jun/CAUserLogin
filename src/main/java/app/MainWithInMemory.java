@@ -12,8 +12,9 @@ import view.LoginView;
 import view.SignupView;
 import view.ViewManager;
 
-import javax.swing.*;
 import java.awt.*;
+
+import javax.swing.*;
 
 /**
  * The version of Main with an external database used to persist user data.
